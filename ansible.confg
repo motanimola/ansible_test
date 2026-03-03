@@ -1,0 +1,3 @@
+## create ansbile configfile
+inventory = /home/ubuntu/ansible_test/inventory
+private_key_file = ~/.ssh/id_ed25519
